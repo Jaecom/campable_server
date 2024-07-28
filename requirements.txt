@@ -1,0 +1,8 @@
+asgiref==3.8.1
+Django==5.0.7
+django-cors-headers==4.4.0
+lxml==5.2.2
+pypandoc_binary==1.13
+python-decouple==3.8
+sqlparse==0.5.1
+typing_extensions==4.12.2
