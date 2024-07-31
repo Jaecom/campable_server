@@ -18,5 +18,5 @@ Including another URLconf
 from django.urls import include, path
 
 urlpatterns = [
-    path("braille", include("braille.urls")),
+    path("braille/", include("braille.urls")),
 ]
